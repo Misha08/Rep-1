@@ -3,8 +3,7 @@ That is my first repsoitory for programming trains
 # Hello, it is my first repsoitory!
 ## If you are reading this, you are exelent person :3 
 
-```
-  python
+``` python
   print("Hi!")
 ```
 
