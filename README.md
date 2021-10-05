@@ -12,3 +12,5 @@ That is my first repsoitory for programming trains
 2. Two
 3. One
 4. RUUUUUUUUUUUUUN!!!!!!!
+
+Sorry, but I didn't try do it so beutiful, cause functional is metter than style and layots
