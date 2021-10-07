@@ -6,7 +6,7 @@ That is my first repsoitory for programming trains
 ``` python
   print("Hi!")
 ```
-![Без названия](https://user-images.githubusercontent.com/59179698/135407379-e2a5410f-4424-4a9a-a84f-354f8358df22.jpg)
+![Xaxaxaxaxa](https://user-images.githubusercontent.com/59179698/135407379-e2a5410f-4424-4a9a-a84f-354f8358df22.jpg)
 
 1. Three
 2. Two
